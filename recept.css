@@ -1,0 +1,40 @@
+body {
+    background-color: #97c0e2;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    line-height: 1.5;
+}
+
+.jagärtrött {
+    max-width: 800px;
+    width: 90%;
+    margin: 40px auto;
+    padding: 30px;
+    border: 5px double #49259f;
+    border-radius: 15px;
+    background-color:#b9e3f8;
+    box-shadow: 0 0 20px #8f9fe8;
+}
+
+.recept-title {
+    font-family: 'Brush Script MT', cursive;
+    text-align: center;
+    color: #6a148c;
+    font-size: 2.8em;
+    margin-bottom: 30px;
+    text-shadow: 2px 2px 2px #4d9feb;
+}
+
+.recept-grej  {
+    margin-bottom: 30px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+ h3 {
+    color: #6A1B9A;
+    border-bottom: 2px solid #b0c0fb;
+    padding-bottom: 10px;
+    margin-top: 0;
+}
+

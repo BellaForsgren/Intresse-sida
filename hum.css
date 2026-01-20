@@ -1,0 +1,98 @@
+body {
+    background-color: #d2c5f6;
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    overflow-x: hidden;
+}
+
+.Top {
+    height: 80px;
+    width: 100%;
+    background-color: #bfbaec;
+    display: flex;
+    align-items: center;
+    padding: 0 30px;
+    box-shadow: 0 2px 5px #713c6fad;
+}
+
+.logo {
+    font-family: 'Script MT';
+    font-size: 32px;
+    color: #2e3054;
+    text-shadow: 2px 2px #b0afef;
+}
+
+.Textblock {
+    width: 350px;
+    background-color: #d4c9ff;
+    border-radius: 15px;
+    border: double 10px #9b94e9;
+    padding: 20px;
+    margin: 40px auto;
+    box-shadow: 5px 5px 15px #713c6fad;
+}
+
+.Innerhåll {
+    text-align: center;
+    color: #8a4f88;
+}
+
+h1 {
+    font-family: 'Brush Script MT';
+    font-size: 38px;
+    margin: 0 0 15px 0;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.button {
+    background-color: #9a94de;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 20px;
+    display: inline-block;
+    margin-top: 15px;
+    text-decoration: none;
+    transition: all 0.1s;
+}
+
+.button:hover {
+    transform: scale(1.1);
+}
+
+.nyasidorflex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.nyasidor-textblock {
+    width: 350px;
+    background-color: #cfc9ff;
+    border-radius: 15px;
+    border: double 10px #a594e9;
+    padding: 20px;
+    box-shadow: 5px 5px 15px #713c6fad;
+    text-align: center;
+}
+
+.nyasidor {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    background-color: #d5c9ff
+}
+
+.nysida {
+    background-color: #ac94de;
+    color: white;
+    padding: 8px 20px;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: all 0.1s;
+}
+
